@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 @media screen and (min-width:769px) and (max-width:992px) {
 
     body{
@@ -42,7 +43,7 @@
     height: 100%;
     }
 
-    ection#login > div#formulario {
+    section#login > div#formulario {
     float: left;
     width: 50%;
     }
